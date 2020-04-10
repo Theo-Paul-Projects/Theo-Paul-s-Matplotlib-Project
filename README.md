@@ -1,7 +1,7 @@
 # Theo-Paul-s-Matplotlib-Project
 Théo/Paul's Matplotlib Project
 
-![proportions0](https://user-images.githubusercontent.com/43089275/79006391-5e24d780-7b59-11ea-93b9-e91ac8ff019b.png | width=100)
+![proportions0](https://user-images.githubusercontent.com/43089275/79006391-5e24d780-7b59-11ea-93b9-e91ac8ff019b.png)
 ![proportions1](https://user-images.githubusercontent.com/43089275/79006395-5f560480-7b59-11ea-98ef-aab01208f2a3.png =250x250)
 ![proportions2](https://user-images.githubusercontent.com/43089275/79006399-60873180-7b59-11ea-9053-35a2818f0390.png =250x250)
 ![proportions3](https://user-images.githubusercontent.com/43089275/79006401-611fc800-7b59-11ea-8361-c6a33f3064f7.png =250x250)
